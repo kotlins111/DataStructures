@@ -181,7 +181,7 @@ class HeroNode {
     public String name;
     public String nickname;
     public HeroNode next;
-    public Integer age;
+
     //构造器
 
     public HeroNode(int no, String name, String nickname) {

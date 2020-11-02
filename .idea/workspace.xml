@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72fe28a6-af1c-44ae-a8ae-e693a659b2bd" name="Default Changelist" comment="" />
+    <list default="true" id="72fe28a6-af1c-44ae-a8ae-e693a659b2bd" name="Default Changelist" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lk/linkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lk/linkedlist/SinglyLinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
@@ -152,12 +156,26 @@
       <workItem from="1603808195994" duration="661000" />
       <workItem from="1603975550380" duration="206000" />
       <workItem from="1604320683175" duration="53000" />
-      <workItem from="1604320774435" duration="563000" />
+      <workItem from="1604320774435" duration="1034000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1604321548111</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604321548111</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="512" key="#Project_Structure" timestamp="1601013355174">
@@ -172,6 +190,10 @@
       <screen x="1920" y="334" width="1920" height="1040" />
     </state>
     <state x="2492" y="334" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601039095082" />
+    <state x="566" y="27" key="CommitChangelistDialog2" timestamp="1604321566913">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="566" y="27" key="CommitChangelistDialog2/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604321566913" />
     <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1604321032532">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -227,6 +249,10 @@
     <state x="178" y="215" key="SettingsEditor/0.0.1920.1040/1920.334.1920.1040@0.0.1920.1040" timestamp="1603808822254" />
     <state x="2098" y="549" key="SettingsEditor/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601220708779" />
     <state x="721" y="272" key="SettingsEditor/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604320995250" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604321757286">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604321757286" />
     <state x="755" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604321113199">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
