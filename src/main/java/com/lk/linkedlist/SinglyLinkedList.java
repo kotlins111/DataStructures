@@ -54,14 +54,9 @@ class SingleLinkedList {
         //新建一个辅助指针
         HeroNode temp = head;
         //遍历链表 找到最后的节点
-        while (true) {
-            //找到最后
-            if (temp.next == null) {
-                break;
-            }
-            //没有找到就后移指针
-            temp = temp.next;
-        }
+        //找到最后
+        //没有找到就后移指针
+        while (temp.next != null) temp = temp.next;
         //退出循环 temp 指向最后
         //将最后的节点的next指向新的节点
         temp.next = heroNode;
