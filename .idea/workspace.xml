@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fe28a6-af1c-44ae-a8ae-e693a659b2bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Ricrodo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lk/graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lk/linkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lk/linkedlist/SinglyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../My_Code" />
@@ -60,7 +62,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.SinglyLinkedList">
+  <component name="RunManager" selected="Application.Graph">
     <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lk.queue.ArrayQueueDemo" />
       <module name="DataStructures" />
@@ -80,6 +82,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lk.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lk.graph.Graph" />
+      <module name="DataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lk.sparsearray.SparseArray" />
-      <module name="DataStructures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lk.sparsearray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.SinglyLinkedList" />
         <item itemvalue="Application.KeyListener" />
         <item itemvalue="Application.CircleArrayQueue" />
         <item itemvalue="Application.ArrayQueueDemo" />
-        <item itemvalue="Application.SparseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +163,14 @@
       <workItem from="1604320683175" duration="53000" />
       <workItem from="1604320774435" duration="1109000" />
       <workItem from="1604387565174" duration="1413000" />
+      <workItem from="1604389022938" duration="128000" />
+      <workItem from="1604465539356" duration="33000" />
+      <workItem from="1604465600330" duration="230000" />
+      <workItem from="1604465844446" duration="199000" />
+      <workItem from="1604913937784" duration="126000" />
+      <workItem from="1604914271758" duration="577000" />
+      <workItem from="1604925795684" duration="212000" />
+      <workItem from="1605259563949" duration="3202000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1604321548111</created>
@@ -176,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604321859629</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test commit">
+      <created>1604389123904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604389123905</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,23 +211,24 @@
       <screen x="1920" y="334" width="1920" height="1040" />
     </state>
     <state x="2472" y="512" key="#Project_Structure/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601013355174" />
-    <state x="2685" y="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1601287164374">
-      <screen x="1920" y="334" width="1920" height="1040" />
+    <state x="2685" y="572" key="#com.intellij.ide.util.MemberChooser" timestamp="1605260719552">
+      <screen x="1920" y="334" width="1920" height="1050" />
     </state>
     <state x="2685" y="570" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601287164374" />
+    <state x="2685" y="572" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.334.1920.1050@1920.334.1920.1050" timestamp="1605260719552" />
     <state x="2492" y="334" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601039095082">
       <screen x="1920" y="334" width="1920" height="1040" />
     </state>
     <state x="2492" y="334" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601039095082" />
-    <state x="566" y="27" width="1103" height="996" key="CommitChangelistDialog2" timestamp="1604321858741">
+    <state x="566" y="27" width="1103" height="996" key="CommitChangelistDialog2" timestamp="1604389121743">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="566" y="27" width="1103" height="996" key="CommitChangelistDialog2/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604321858741" />
-    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1604388528360">
+    <state x="566" y="27" width="1103" height="996" key="CommitChangelistDialog2/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604389121743" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1604465672038">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="2660" y="608" key="FileChooserDialogImpl/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601010034341" />
-    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604388528360" />
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604465672038" />
     <state x="817" y="415" key="Github.ShareDialog" timestamp="1604321245445">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -259,16 +277,16 @@
       <screen x="1920" y="334" width="1920" height="1040" />
     </state>
     <state x="2460" y="589" key="IDE.errors.dialog/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601268962248" />
-    <state x="524" y="229" key="SettingsEditor" timestamp="1604388993986">
+    <state x="524" y="229" key="SettingsEditor" timestamp="1604914065965">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="178" y="215" key="SettingsEditor/0.0.1920.1040/1920.334.1920.1040@0.0.1920.1040" timestamp="1603808822254" />
     <state x="2098" y="549" key="SettingsEditor/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601220708779" />
-    <state x="524" y="229" key="SettingsEditor/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604388993986" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604389112760">
+    <state x="524" y="229" key="SettingsEditor/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604914065965" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1604389136732">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604389112760" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604389136732" />
     <state x="715" y="369" key="cloudConfig.SelfSettingsDialog" timestamp="1604388442713">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -277,14 +295,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="755" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604321113199" />
+    <state x="731" y="203" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1604914840474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="203" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604914840474" />
     <state x="2305" y="459" key="new project wizard" timestamp="1601010087511">
       <screen x="1920" y="334" width="1920" height="1040" />
     </state>
     <state x="2305" y="459" key="new project wizard/0.0.1920.1040/1920.334.1920.1040@1920.334.1920.1040" timestamp="1601010087511" />
-    <state x="637" y="176" width="645" height="495" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1604388912583">
+    <state x="637" y="176" width="645" height="495" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1604465802727">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="637" y="176" width="645" height="495" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604388912583" />
+    <state x="637" y="176" width="645" height="495" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1050/1920.334.1920.1050@0.0.1920.1050" timestamp="1604465802727" />
     <state x="616" y="74" key="run.anything.popup" timestamp="1604389092671">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
